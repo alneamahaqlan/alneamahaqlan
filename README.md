@@ -82,6 +82,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alneamahaqlan/alneamahaqlan/output/snake.svg" alt="Snake animation" />
+
 
 ###
