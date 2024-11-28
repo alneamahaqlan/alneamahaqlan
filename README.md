@@ -2,13 +2,21 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alneamahaqlan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alneamahaqlan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alneamahaqlan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="alneamahaqlan's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alneamahaqlan&theme=vue-dark&hide_border=true" alt="alneamahaqlan's Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alneamahaqlan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="alneamahaqlan's Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ###
-![alneamahaqlan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alneamahaqlan&theme=vue-dark&hide_border=true)
 
 <img align="right" height="150" src=""  />
 
@@ -78,4 +86,3 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
-
