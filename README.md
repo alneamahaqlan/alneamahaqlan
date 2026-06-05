@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is aqlan alneamah and I'm a FullStack Developer - (Flutter | Laravel), from  Yemen</h2>
+<h2 align="left">Hi 👋! My name is aqlan alneamah and I'm a Software Engineer | Laravel & Flutter, from  Yemen</h2>
 
 
 <table>
