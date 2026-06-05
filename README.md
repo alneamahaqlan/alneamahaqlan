@@ -1,9 +1,7 @@
-<h2 align="left">Hi 👋! My name is aqlan alneamah and I'm a Software Engineer | Laravel &amp; Flutter, from Yemen</h2>
+<h2 align="left">Hi 👋! My name is aqlan alneamah and I'm a Software Engineer | Laravel & Flutter, from Yemen</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alneamahaqlan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alneamahaqlan&theme=vue-dark&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alneamahaqlan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 <div align="left">
